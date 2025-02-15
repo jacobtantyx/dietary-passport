@@ -6,6 +6,7 @@
 https://dietarypassport.netlify.app/
 
 ### ✨ 核心功能 | Features
+
 用户友好设置 | Intuitive Setup
 🚀 四步快速配置（称呼/禁忌/饮食偏好/生成）
 4-Step Setup (Name/Restrictions/Preferences/Generate)
